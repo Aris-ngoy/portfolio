@@ -3,6 +3,7 @@ import {
   Switch,
   Route
 } from "react-router-dom";
+import AboutPage from './AboutPage/Index';
 import DetailPage from './DetailPage';
 import MainPage from './MainPage';
 import Workpage from './Workpage';
@@ -15,6 +16,9 @@ const InitRouters = () =>{
             </Route>
             <Route path="/works">
                 <Workpage />
+            </Route>
+            <Route path="/about">
+                <AboutPage />
             </Route>
             <Route exact path="/">
                 <MainPage />

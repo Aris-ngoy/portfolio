@@ -10,7 +10,7 @@ function App() {
     <Router className=" w-screen h-screen">
       <div className="flex flex-row w-full">
         <Menu />
-        <div className="flex-4 bg-gray-50 w-full ml-20">
+        <div className="flex-4 bg-gray-50 w-full pl-20">
           <InitRouters />
         </div>
       </div>

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Logo from './Logo';
 import MenuItem from './menuItem';
-import { FiHome, FiGrid } from "react-icons/fi";
+import { FiHome, FiGrid, FiUser } from "react-icons/fi";
 
 const menuList = [
     {
@@ -13,6 +13,11 @@ const menuList = [
         path : "/works",
         name : "Works",
         Icon : FiGrid
+    },
+    {
+        path : "/about",
+        name : "About",
+        Icon : FiUser
     }
 ]
 

@@ -24,6 +24,9 @@ const HeaderComponents = () =>{
                 <FiLinkedin size={20} />
             </span>
         </div>
+        <button className="shadow-lg bg-indigo-800 w-32 p-2 rounded-full px-4 mt-4 focus:ring-offset-2 text-white focus:outline-none focus:ring">
+            Resume
+        </button>
     </div>
     <img className="md:w-6/12 p-8 md:p-2 w-full" src={developerImage} alt="svg-i" />
 </div>)
