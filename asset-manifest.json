@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a75a5112.chunk.css",
+    "main.js": "/static/js/main.f470794a.chunk.js",
+    "main.js.map": "/static/js/main.f470794a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8dba78b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8dba78b3.js.map",
+    "static/js/2.f56008b0.chunk.js": "/static/js/2.f56008b0.chunk.js",
+    "static/js/2.f56008b0.chunk.js.map": "/static/js/2.f56008b0.chunk.js.map",
+    "static/js/3.941b95ec.chunk.js": "/static/js/3.941b95ec.chunk.js",
+    "static/js/3.941b95ec.chunk.js.map": "/static/js/3.941b95ec.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a75a5112.chunk.css.map": "/static/css/main.a75a5112.chunk.css.map",
+    "static/js/2.f56008b0.chunk.js.LICENSE.txt": "/static/js/2.f56008b0.chunk.js.LICENSE.txt",
+    "static/media/developer.2c0445ca.svg": "/static/media/developer.2c0445ca.svg",
+    "static/media/development.51f6f57e.svg": "/static/media/development.51f6f57e.svg",
+    "static/media/mbotetechlogo.3e454f30.svg": "/static/media/mbotetechlogo.3e454f30.svg",
+    "static/media/mbotetechlogoText.8904714e.svg": "/static/media/mbotetechlogoText.8904714e.svg",
+    "static/media/programming.becd1465.svg": "/static/media/programming.becd1465.svg",
+    "static/media/strategy.dc497360.svg": "/static/media/strategy.dc497360.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dba78b3.js",
+    "static/js/2.f56008b0.chunk.js",
+    "static/css/main.a75a5112.chunk.css",
+    "static/js/main.f470794a.chunk.js"
+  ]
+}
