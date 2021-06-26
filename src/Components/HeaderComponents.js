@@ -3,8 +3,10 @@ import { FiGithub, FiLinkedin, FiTwitter } from 'react-icons/fi';
 import developerImage from '../assets/developer.svg'
 
 const HeaderComponents = () =>{
-    return(<div className="flex flex-col md:flex-row m-4 lg:justify-between xl:justify-center">
-    <div className="text-gray-500 mx-8 my-12">
+    return(
+    <div className="mx-auto p-10 h-auto">
+    <div className="flex flex-col md:flex-row m-4 lg:justify-between xl:justify-center">
+    <div className="text-gray-500 mx-8">
         <h1 className="w-60 h-24 xl:w-80 xl:h-auto text-5xl xl:text-7xl font-bold">Hello, I'm Aristote</h1>
         <p className="font-mono xl:text-base text-sm my-4 w-80 xl:w-96 h-auto">
             A bright, talented, ambitious and self-motivated software developer with a 
@@ -29,6 +31,8 @@ const HeaderComponents = () =>{
         </button>
     </div>
     <img className="md:w-6/12 p-8 md:p-2 w-full" src={developerImage} alt="svg-i" />
-</div>)
+</div>
+</div>
+)
 }
 export default HeaderComponents

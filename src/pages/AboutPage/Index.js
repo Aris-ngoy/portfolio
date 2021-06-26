@@ -14,7 +14,7 @@ const AboutPage = () =>{
         <ArchitectureComponents />
         <DesignComponents />
         <h1 className="w-full mb-20 mt-8 text-2xl text-center text-gray-500 font-bold">Recent Work</h1>
-        <RecentWorkComponent />
+        <RecentWorkComponent cssClass="w-3/5" />
     </div>)
 }
 
